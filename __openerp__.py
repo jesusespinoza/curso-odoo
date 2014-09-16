@@ -5,7 +5,7 @@
     'description': 'Este modulo es para aprender OpenERP',
     'autor': 'Jesus Espinoza',
     'version': 'dial',
-    'depends': ['base',]
+    'depends': ['base',],
     'data':[],
     'demo':[],
 }
