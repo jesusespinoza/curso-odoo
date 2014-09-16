@@ -4,7 +4,7 @@ from openerp.osv import osv, fields
 
 
 class tipo_medio(osv.osv):
-    _name = 'co.tipo_medio'
+    _name = 'co.tipo.medio'
     _descripton = 'CO.tipo_medio'
     
     _columns = {
